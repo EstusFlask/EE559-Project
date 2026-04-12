@@ -1,1 +1,3 @@
-pip install requirements.txt
+import subprocess
+
+subprocess.run(["pip", "install", "-r", "requirements.txt"])
