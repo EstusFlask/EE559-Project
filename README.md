@@ -26,4 +26,4 @@ Files like X_test.csv are obsolete. The code that uses them has been commented o
 ## Models
 - Baseline Model --> baseline_model.ipynb
 - Logistic Regression --> logistic_regression.ipynb
-- Multi-Layer Perceptron --> MLP.ipynb
+- Multi-Layer Perceptron --> mlp.ipynb
