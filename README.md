@@ -23,7 +23,8 @@ process_mushrooms.csv is the file currently in use.
 
 Files like X_test.csv are obsolete. The code that uses them has been commented out. However, you can still use them for testing or other purposes.
 
-## Models
+## Models (Simply run the notebooks)
 - Baseline Model --> baseline_model.ipynb
 - Logistic Regression --> logistic_regression.ipynb
 - Multi-Layer Perceptron --> mlp.ipynb
+- Naive Bayes --> naive_bayes.ipynb
